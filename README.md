@@ -8,9 +8,6 @@ The application provides core functionalities for managing Users, Products, Addr
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Project Structure
-# E-Commerce Backend (Spring Boot)
-
 ## Description
 
 This project is a RESTful E-Commerce Backend application built using Spring Boot. It follows a layered architecture with clear separation of concerns, including Entity, DTO, Mapper, Controller, Service, Repository, and Exception handling.
