@@ -60,7 +60,7 @@ src/main/java/com/project
 ## How to Run
 
 1. Clone the repository:
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Nithesh-08/E-Commerce-Backend-Project.git
 2. Navigate to project:
   cd your-repo-name
 
