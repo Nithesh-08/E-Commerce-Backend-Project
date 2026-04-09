@@ -8,20 +8,6 @@ The application provides core functionalities for managing Users, Products, Addr
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Project Structure
-
-src/main/java/com/project
-│
-├── controller # REST API endpoints
-├── service # Business logic
-├── repository # Data access layer
-├── entity # Database entities
-├── dto # Data Transfer Objects
-├── mapper # Entity ↔ DTO conversion
-├── exception # Global exception handling
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ## API Endpoints
 
 ### User
